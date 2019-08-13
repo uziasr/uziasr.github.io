@@ -1985,7 +1985,8 @@ input, select, textarea {
 			}
 	.fa-html5, .fa-css3-alt, .fa-js, .fa-git-alt, .fa-java, .fa-python{
 		font-size: 6em;
-		color:#39CCCC;
+		/* color:#39CCCC; */
+		color:black;
 	}	
 
 /* Wrappers */
